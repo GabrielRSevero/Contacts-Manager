@@ -1,5 +1,5 @@
 # Contacts-Manager
-Gerenciador de contatos desenvolvido para demonstrar habilidades em Laravel
+Gerenciador de contatos desenvolvido utilizando Laravel 10, utilizando as principais features do framework: Migrations, autenticação, ORM, Testes.
 
 # Iniciar:
 ```php
