@@ -2,10 +2,18 @@
 Gerenciador de contatos desenvolvido para demonstrar habilidades em Laravel
 
 # Iniciar:
-~ composer install
-~ yarn ou npm install
+```php
+composer install
+```
+```php
+yarn ou npm install
+```
 
 # Rodar projeto:
 Utilizar simultâneamente:
-~ php artisan serve
-~ yarn run dev ou npm run dev
+```php
+php artisan serve
+```
+```php
+yarn run dev ou npm run dev
+```
