@@ -6,7 +6,7 @@ Gerenciador de contatos desenvolvido para demonstrar habilidades em Laravel
 composer install
 ```
 ```php
-yarn ou npm install
+npm install
 ```
 
 # Rodar projeto:
@@ -15,5 +15,5 @@ Utilizar simultâneamente:
 php artisan serve
 ```
 ```php
-yarn run dev ou npm run dev
+npm run dev
 ```
